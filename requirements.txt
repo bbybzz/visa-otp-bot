@@ -1,0 +1,1 @@
+flask==2.0.1\ntelnyx==1.2.0\npython-telegram-bot==13.7
